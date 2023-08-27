@@ -22,6 +22,7 @@ try:
 except Exception as e:
         logger.exception(e)
         raise e
+<<<<<<< HEAD
 
 
 
@@ -75,3 +76,5 @@ except Exception as e:
 #         logger.exception(e)
 #         raise e
 
+=======
+>>>>>>> ae56d311da159c91a50db7f31049215793b7a9e1

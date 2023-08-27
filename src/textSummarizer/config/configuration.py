@@ -4,7 +4,7 @@ from textSummarizer.entity import DataIngestionConfig
 from textSummarizer.entity import DataValidationConfig
 from textSummarizer.entity import DataTransformationConfig
 from textSummarizer.entity import ModelTrainerConfig
-
+from textSummarizer.entity import ModelEvaluationConfig
 
 class ConfigurationManager:
     def __init__(
